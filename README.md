@@ -1,2 +1,2 @@
-# Go-By-Example
+# Go By Examples
 Learning golang by examples.
